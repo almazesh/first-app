@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+}
+
+.text-center {
+  text-align: center;
+}
+
+
+.d-flex {
+  display: flex;
+}
+
+.gap {
+  display: flex;
+  gap: 30px;
+}
+
+.mt-1 {
+  margin-top: 10px;
+}
+
+.mt-2 {
+  margin-top: 20px;
+}
+
+
+.bg-dark {
+  background-color: rgba(0,0,0,0.8);
+}
+
+.text-danger {
+  color: red;
+}
+
+
+.text-success {
+  color: green;
+}
